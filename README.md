@@ -25,3 +25,12 @@ Arquivo zip Mineracao_sentimentos_e_adjetivos.zip contendo todos os recursos utl
 ![pipeline](https://user-images.githubusercontent.com/15157510/66793797-5a2f3a00-eed5-11e9-91f4-b089c506ba1e.PNG)
 
 
+### Cálculo da similaridade de termos no twitter.
+
+#### Pipeline
+
+
+![pipeline](https://user-images.githubusercontent.com/15157510/66794427-daef3580-eed7-11e9-8df3-b753a3a0a005.PNG)
+
+
+Arquivo zip Grau-de-similaridade-knime.zip contendo todos os recursos utlizados nessa aprendizagem.
