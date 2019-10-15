@@ -20,3 +20,8 @@ Arquivo zip Mineracao_sentimentos_e_adjetivos.zip contendo todos os recursos utl
 
 ![nuvem_sentimentos](https://user-images.githubusercontent.com/15157510/66793653-c198ba00-eed4-11e9-9dd6-a6d140488e76.PNG)
 
+#### Pipeline
+
+![pipeline](https://user-images.githubusercontent.com/15157510/66793797-5a2f3a00-eed5-11e9-91f4-b089c506ba1e.PNG)
+
+-----------------------------------------------------------------------------------------------------------------------------------
