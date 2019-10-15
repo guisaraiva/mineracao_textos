@@ -14,7 +14,7 @@ Arquivo zip Mineracao_sentimentos_e_adjetivos.zip contendo todos os recursos utl
 
 #### Nuvem de ajetivos extraídos da base de dados.
 
-![nuvem_adjetivos](https://user-images.githubusercontent.com/15157510/66793598-8a2a0d80-eed4-11e9-93a2-ceba8e71915e.PNG)
+![nuvem_adjetivos](https://user-images.githubusercontent.com/15157510/66793710-f0169500-eed4-11e9-8e57-cc2a07237576.PNG)
 
 #### Nuvem de sentimentos (positivos e negativos) extraídos da base de dados. 
 
